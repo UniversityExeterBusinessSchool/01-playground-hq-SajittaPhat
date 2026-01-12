@@ -1,25 +1,23 @@
-# My Structure - Student XX
-=== student_07.txt ===
+# My Structure - Student 07
+
+## What I See in My Data
 V-V-V-V    V-V-V-V
 [  SPACE  ]
 HEIGHT: 4
 SPACING: 4-UNITS
 TYPE: PARALLEL_VERTICAL
 COLOR: RED
-
-## What I See in My Data
-[Describe the codes, letters, numbers]
-
+The red bricks stacked upward with 4 blocks tall, with a 4 blocks gap between 2 pillars.
 
 ## What I Think This Means
-[Interpret the patterns]
+Build 2 pillars with red color bricks.
 
 
 ## What This Could Be
-[Your best guess - playground equipment?]
+Buildings
 
 
 ## Questions I Have
-[What don't you know yet?]
+No
 
 ![IMG_6214](https://github.com/user-attachments/assets/313dbfcc-2977-4c52-8a68-3a91dd0ef182)
