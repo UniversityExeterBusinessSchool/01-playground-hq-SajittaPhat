@@ -21,3 +21,5 @@ COLOR: RED
 
 ## Questions I Have
 [What don't you know yet?]
+
+![IMG_6214](https://github.com/user-attachments/assets/313dbfcc-2977-4c52-8a68-3a91dd0ef182)
